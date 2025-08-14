@@ -18,13 +18,11 @@
 * **【提示工程指南（“圣经”）】** [https://www.promptingguide.ai/zh](https://www.promptingguide.ai/zh)
 * **【配套代码】** [https://github.com/dair-ai/Prompt-Engineering-Guide/tree/main/notebooks](https://github.com/dair-ai/Prompt-Engineering-Guide/tree/main/notebooks)
 
-## 实战作业
+## 实战
 
 完成下面三个任务的 **代码** 和 **Prompt**，实现要求的功能。
 
-* 必须独立完成，遇到问题可在 1v1 群里提问
-* 代码与运行结果需上传到学习空间
-* 本次作业我们将基于 **清华开源大模型 ChatGLM2-6B**，在**不训练模型**的情况下，仅通过 **Prompt** 实现 **zero-shot / few-shot** 的自然语言处理任务
+* 本次将基于 **清华开源大模型 ChatGLM2-6B**，在**不训练模型**的情况下，仅通过 **Prompt** 实现 **zero-shot / few-shot** 的自然语言处理任务
 * 如果 GPU 资源不足，可使用 **智谱 GLM4 API** 完成，接口文档见：**[智谱AI开放平台](https://open.bigmodel.cn/)**
 
 ---
