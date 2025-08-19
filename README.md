@@ -8,15 +8,21 @@
 * **【配套代码】** [https://github.com/madroidmaq/prompt-engineering-notebook/tree/master/notebook/cn](https://github.com/madroidmaq/prompt-engineering-notebook/tree/master/notebook/cn)
 * **【Prompt 系列课程】** [https://github.com/PandaBearLab/prompt-tutorial](https://github.com/PandaBearLab/prompt-tutorial)
 
+---
+
 ### 【原理】大白话提示工程  （✅）
 
 * **【OpenAI-GPT 最佳实践】** [https://ajk.lanzout.com/iKmvV1cdoj3i](https://ajk.lanzout.com/iKmvV1cdoj3i)
 * **【CO-STAR 提示词指南】** [https://weibo.com/tv/show/1034:5031216034807827?from=old\_pc\_videoshow](https://weibo.com/tv/show/1034:5031216034807827?from=old_pc_videoshow)
 
+---
+
 ### 【进阶】提示工程高级用法  （✅）
 * **【DeepSeek提示词指南】** https://api-docs.deepseek.com/zh-cn/prompt-library/
 * **【提示工程指南（“圣经”）】** [https://www.promptingguide.ai/zh](https://www.promptingguide.ai/zh)
 * **【配套代码】** [https://github.com/dair-ai/Prompt-Engineering-Guide/tree/main/notebooks](https://github.com/dair-ai/Prompt-Engineering-Guide/tree/main/notebooks)
+
+---
 
 ## 实战
 
